@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+  <string name="Hello">Hello World, Click Me!</string>
+
+  <string name="app_name">DandDWristStats</string>
+  <string name="auth_client_needs_enabling_title"></string>
+  <string name="auth_client_needs_installation_title"></string>
+  <string name="auth_client_needs_update_title"></string>
+  <string name="auth_client_play_services_err_notification_msg"></string>
+  <string name="auth_client_requested_by_msg"></string>
+  <string name="auth_client_using_bad_version_title"></string>
+</resources>

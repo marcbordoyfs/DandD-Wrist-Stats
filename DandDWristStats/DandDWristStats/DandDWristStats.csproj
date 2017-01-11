@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <ProjectGuid>{8F93CDD2-7A02-4972-B068-BDDCD7A49BE0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>DandDWristStats</RootNamespace>
+    <AssemblyName>DandDWristStats</AssemblyName>
+    <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
+    <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
+    <AndroidResgenClass>Resource</AndroidResgenClass>
+    <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
+    <AndroidApplication>True</AndroidApplication>
+    <AndroidUseLatestPlatformSdk>False</AndroidUseLatestPlatformSdk>
+    <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
+    <IsAppExtension>true</IsAppExtension>
+    <TargetFrameworkVersion>v6.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidLinkMode>None</AndroidLinkMode>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidUseSharedRuntime>false</AndroidUseSharedRuntime>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="Mono.Android" />
+    <Reference Include="Xamarin.Android.Support.v13">
+      <HintPath>..\packages\Xamarin.Android.Support.v13.20.0.0.4\lib\MonoAndroid32\Xamarin.Android.Support.v13.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Android.Wearable">
+      <HintPath>..\packages\Xamarin.Android.Wear.1.0.0-preview7\lib\MonoAndroid10\Xamarin.Android.Wearable.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CharacterStats.cs" />
+    <Compile Include="DamageDiceAct.cs" />
+    <Compile Include="DamageRollAct.cs" />
+    <Compile Include="deletecharAct.cs" />
+    <Compile Include="DiceAct.cs" />
+    <Compile Include="DiceRollingAct.cs" />
+    <Compile Include="EditCharacterAct.cs" />
+    <Compile Include="MainActivity.cs" />
+    <Compile Include="nameinput.cs" />
+    <Compile Include="nameinputedit.cs" />
+    <Compile Include="newCharAct.cs" />
+    <Compile Include="oldCharAct.cs" />
+    <Compile Include="OptionsAct.cs" />
+    <Compile Include="Resources\Resource.designer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RollingforskillsAct.cs" />
+    <Compile Include="RollTypeAct.cs" />
+    <Compile Include="skillrollAct.cs" />
+    <Compile Include="skillrollplusesAct.cs" />
+    <Compile Include="statpickAct.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="GettingStarted.Xamarin" />
+    <None Include="Resources\AboutResources.txt" />
+    <None Include="Assets\AboutAssets.txt" />
+    <None Include="Properties\AndroidManifest.xml" />
+    <None Include="packages.config" />
+    <AndroidResource Include="Resources\layout\DamageDice.axml" />
+    <AndroidResource Include="Resources\layout\DamageRolls.axml" />
+    <AndroidResource Include="Resources\layout\DeleteChar.axml" />
+    <AndroidResource Include="Resources\layout\Dicelayout.axml" />
+    <AndroidResource Include="Resources\layout\DiceRolling.axml" />
+    <AndroidResource Include="Resources\layout\EditCharacters.axml" />
+    <AndroidResource Include="Resources\layout\letters.axml" />
+    <AndroidResource Include="Resources\layout\lettersedit.axml" />
+    <AndroidResource Include="Resources\layout\newchar.axml" />
+    <AndroidResource Include="Resources\layout\oldchar.axml" />
+    <AndroidResource Include="Resources\layout\Options.axml" />
+    <AndroidResource Include="Resources\layout\Rollingforskills.axml" />
+    <AndroidResource Include="Resources\layout\RollType.axml" />
+    <AndroidResource Include="Resources\layout\skillrollpulses.axml" />
+    <AndroidResource Include="Resources\layout\Skillrolls.axml" />
+    <AndroidResource Include="Resources\layout\statpick.axml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Icon.png" />
+    <AndroidResource Include="Resources\layout\Main.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\values\strings.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
+</Project>

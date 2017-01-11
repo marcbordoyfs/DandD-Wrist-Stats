@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:minWidth="25px"
+    p1:minHeight="25px"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/scrollView1">
+    <RelativeLayout
+        p1:layout_width="match_parent"
+        p1:layout_height="match_parent"
+        p1:id="@+id/relativeLayout1"
+        p1:background="@android:color/holo_red_dark"
+        p1:scrollbarAlwaysDrawHorizontalTrack="true"
+        p1:scrollbars="vertical">
+        <Button
+            p1:text="Character Name"
+            p1:id="@+id/charname"
+            p1:background="@android:color/background_light"
+            p1:textColor="@android:color/background_dark"
+            p1:layout_width="215.3dp"
+            p1:layout_height="wrap_content"
+            p1:layout_marginLeft="10.7dp"
+            p1:layout_marginRight="0.0dp"
+            p1:textSize="10dp" />
+        <Button
+            p1:text="Deception"
+            p1:layout_width="wrap_content"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/Deceptionbutton"
+            p1:layout_marginTop="130dp"
+            p1:layout_marginLeft="30dp"
+            p1:textSize="10dp" />
+        <Button
+            p1:text="Animal                    Handling"
+            p1:layout_width="85.3dp"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/Animalbutton"
+            p1:layout_marginTop="50dp"
+            p1:layout_marginLeft="120dp"
+            p1:textSize="10dp" />
+        <Button
+            p1:text="Athletics"
+            p1:layout_width="wrap_content"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/Athleticsbutton"
+            p1:layout_marginLeft="120dp"
+            p1:layout_marginTop="90dp"
+            p1:textSize="10dp" />
+        <Button
+            p1:text="Acrobatics"
+            p1:layout_width="wrap_content"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/Acrobaticsbutton"
+            p1:layout_marginLeft="30dp"
+            p1:layout_marginTop="50dp"
+            p1:textSize="10dp" />
+        <Button
+            p1:text="History"
+            p1:layout_width="wrap_content"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/Historybutton"
+            p1:layout_marginTop="130dp"
+            p1:layout_marginLeft="120dp"
+            p1:textSize="10dp" />
+        <Button
+            p1:text="Arcana"
+            p1:layout_width="wrap_content"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/Arcanabutton"
+            p1:layout_marginLeft="30dp"
+            p1:layout_marginTop="90dp"
+            p1:textSize="10dp" />
+        <Button
+            p1:text="Insight"
+            p1:layout_width="wrap_content"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/Insightbutton"
+            p1:layout_marginLeft="30dp"
+            p1:layout_marginTop="170dp"
+            p1:textSize="10dp" />
+        <RadioButton
+            p1:layout_width="wrap_content"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/radioButton1"
+            p1:layout_marginTop="460dp" />
+        <Button
+            p1:text="Investigation"
+            p1:layout_width="wrap_content"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/Investigationbutton"
+            p1:layout_marginLeft="30dp"
+            p1:layout_marginTop="210dp"
+            p1:textSize="8dp" />
+        <Button
+            p1:text="Persuasion"
+            p1:layout_width="wrap_content"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/Persuasionbutton"
+            p1:layout_marginLeft="30dp"
+            p1:layout_marginTop="290dp"
+            p1:textSize="10dp" />
+        <Button
+            p1:text="Slight                                                                                              of Hand"
+            p1:layout_width="86.0dp"
+            p1:layout_height="match_parent"
+            p1:id="@+id/Slightbutton"
+            p1:layout_marginLeft="30dp"
+            p1:layout_marginTop="330dp"
+            p1:textSize="11dp" />
+        <Button
+            p1:text="Survival"
+            p1:layout_width="wrap_content"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/Survivalbutton"
+            p1:layout_marginLeft="30dp"
+            p1:layout_marginTop="370dp"
+            p1:textSize="10dp" />
+        <Button
+            p1:text="Nature"
+            p1:layout_width="wrap_content"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/Naturebutton"
+            p1:layout_marginLeft="30dp"
+            p1:layout_marginTop="250dp"
+            p1:textSize="10dp" />
+        <Button
+            p1:text="Intimidation"
+            p1:layout_width="wrap_content"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/Intimidationbutton"
+            p1:layout_marginTop="170dp"
+            p1:layout_marginLeft="120dp"
+            p1:textSize="10dp" />
+        <Button
+            p1:text="Perception"
+            p1:layout_width="wrap_content"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/Perceptionbutton"
+            p1:layout_marginTop="250dp"
+            p1:layout_marginLeft="120dp"
+            p1:textSize="10dp" />
+        <Button
+            p1:text="Medicine"
+            p1:layout_width="wrap_content"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/Medicinebutton"
+            p1:layout_marginTop="210dp"
+            p1:layout_marginLeft="120dp"
+            p1:textSize="10dp" />
+        <Button
+            p1:text="Religion"
+            p1:layout_width="wrap_content"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/Religionbutton"
+            p1:layout_marginTop="290dp"
+            p1:layout_marginLeft="120dp"
+            p1:textSize="10dp" />
+        <Button
+            p1:text="Stealth"
+            p1:layout_width="wrap_content"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/Stealthbutton"
+            p1:layout_marginTop="330dp"
+            p1:layout_marginLeft="120dp"
+            p1:textSize="10dp" />
+        <Button
+            p1:text="Performance"
+            p1:layout_width="wrap_content"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/Performancebutton"
+            p1:layout_marginTop="370dp"
+            p1:layout_marginLeft="120dp"
+            p1:textSize="8dp" />
+    </RelativeLayout>
+</ScrollView>

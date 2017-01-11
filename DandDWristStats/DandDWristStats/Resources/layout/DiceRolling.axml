@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/relativeLayout1"
+    p1:background="@android:color/holo_red_dark">
+    <Button
+        p1:text="name"
+        p1:layout_width="200.0dp"
+        p1:layout_height="40.0dp"
+        p1:id="@+id/buttonname"
+        p1:layout_marginLeft="16.0dp"
+        p1:background="@android:color/background_light"
+        p1:textColor="@android:color/background_dark" />
+    <TextView
+        p1:text="your roll"
+        p1:textAppearance="?android:attr/textAppearanceMedium"
+        p1:layout_width="wrap_content"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/textViewroll"
+        p1:layout_marginTop="50dp"
+        p1:layout_marginLeft="22.0dp"
+        p1:textColor="@android:color/background_dark" />
+    <TextView
+        p1:text="With plus:"
+        p1:textAppearance="?android:attr/textAppearanceMedium"
+        p1:layout_width="wrap_content"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/textViewplus"
+        p1:layout_marginTop="125dp"
+        p1:layout_marginLeft="22dp"
+        p1:textColor="@android:color/background_dark" />
+    <ImageButton
+        p1:layout_width="wrap_content"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/imageButtonOption"
+        p1:layout_marginTop="152.7dp"
+        p1:layout_marginLeft="170dp"
+        p1:background="@android:drawable/ic_menu_more"
+        p1:foreground="@android:drawable/ic_menu_more" />
+    <Button
+        p1:text="Dice"
+        p1:layout_width="60.0dp"
+        p1:layout_height="60.0dp"
+        p1:id="@+id/buttonDice"
+        p1:layout_marginLeft="156.7dp"
+        p1:layout_marginTop="54.7dp" />
+    <Button
+        p1:text="Roll"
+        p1:layout_width="wrap_content"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/Rollbutton"
+        p1:layout_marginTop="75dp"
+        p1:layout_marginLeft="33.3dp" />
+    <Button
+        p1:text="Disadvantage"
+        p1:layout_width="wrap_content"
+        p1:layout_height="33.3dp"
+        p1:id="@+id/Disadvantagebutton"
+        p1:layout_marginTop="175dp"
+        p1:layout_marginLeft="50dp"
+        p1:textSize="10dp" />
+    <Button
+        p1:text="Advantage"
+        p1:layout_width="wrap_content"
+        p1:layout_height="31.3dp"
+        p1:id="@+id/Advantagebutton"
+        p1:layout_marginTop="150dp"
+        p1:layout_marginLeft="55.3dp"
+        p1:textSize="10dp" />
+</RelativeLayout>

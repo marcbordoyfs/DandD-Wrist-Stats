@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/relativeLayout1"
+    p1:background="@android:color/holo_red_dark">
+    <Button
+        p1:text="Character list"
+        p1:id="@+id/Characterlist"
+        p1:background="@android:color/background_light"
+        p1:layout_width="198.7dp"
+        p1:layout_height="wrap_content"
+        p1:layout_marginLeft="16.7dp"
+        p1:textColor="@android:color/background_dark" />
+    <Button
+        p1:text="Play: character 1"
+        p1:id="@+id/charbutton1"
+        p1:layout_width="166.0dp"
+        p1:layout_height="wrap_content"
+        p1:layout_marginTop="50dp"
+        p1:layout_marginLeft="15dp" />
+    <Button
+        p1:text="Play: character 2"
+        p1:id="@+id/charbutton2"
+        p1:layout_width="165.3dp"
+        p1:layout_height="wrap_content"
+        p1:layout_marginTop="90dp"
+        p1:layout_marginLeft="15dp" />
+    <Button
+        p1:text="Play: character 3"
+        p1:id="@+id/charbutton3"
+        p1:layout_width="165.3dp"
+        p1:layout_height="wrap_content"
+        p1:layout_marginTop="130dp"
+        p1:layout_marginLeft="15dp" />
+    <ImageButton
+        p1:layout_width="40.0dp"
+        p1:layout_height="40.0dp"
+        p1:id="@+id/char1editbutton"
+        p1:layout_marginTop="53.3dp"
+        p1:background="@android:drawable/ic_menu_more"
+        p1:layout_marginLeft="175dp"
+        p1:foreground="@android:drawable/ic_menu_more" />
+    <ImageButton
+        p1:layout_width="40.0dp"
+        p1:layout_height="40.0dp"
+        p1:id="@+id/char2editbutton"
+        p1:layout_marginTop="93.3dp"
+        p1:background="@android:drawable/ic_menu_more"
+        p1:layout_marginLeft="175dp"
+        p1:foreground="@android:drawable/ic_menu_more" />
+    <ImageButton
+        p1:layout_width="40.0dp"
+        p1:layout_height="40.0dp"
+        p1:id="@+id/char3editbutton"
+        p1:layout_marginTop="133.4dp"
+        p1:background="@android:drawable/ic_menu_more"
+        p1:layout_marginLeft="175dp"
+        p1:foreground="@android:drawable/ic_menu_more" />
+    <ImageButton
+        p1:id="@+id/oldtomainbutton"
+        p1:background="@android:drawable/ic_menu_revert"
+        p1:foreground="@android:drawable/ic_menu_revert"
+        p1:layout_width="40.0dp"
+        p1:layout_height="40.0dp"
+        p1:layout_marginTop="175dp"
+        p1:layout_marginLeft="104.7dp" />
+</RelativeLayout>

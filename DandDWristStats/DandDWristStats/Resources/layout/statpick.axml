@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:id="@+id/relativeLayout1"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:background="@android:color/holo_red_dark">
+    <Button
+        p1:text="continue"
+        p1:id="@+id/continuebutton"
+        p1:background="@android:color/background_light"
+        p1:textColor="@android:color/background_dark"
+        p1:layout_width="228.0dp"
+        p1:layout_height="wrap_content"
+        p1:layout_marginTop="180dp"
+        p1:layout_marginLeft="4.7dp" />
+    <CheckBox
+        p1:text="proficient"
+        p1:layout_width="98.0dp"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/profcheckBox"
+        p1:layout_marginTop="82.7dp"
+        p1:layout_marginLeft="143.3dp" />
+    <RadioGroup
+        p1:minWidth="25px"
+        p1:minHeight="25px"
+        p1:id="@+id/radioGroup1"
+        p1:layout_width="wrap_content"
+        p1:layout_height="wrap_content"
+        p1:layout_above="@id/relativeLayout1"
+        p1:layout_marginTop="20dp"
+        p1:layout_marginLeft="40dp">
+        <RadioButton
+            p1:text="Strength"
+            p1:id="@+id/radioButton1"
+            p1:layout_width="110.0dp"
+            p1:layout_height="26.0dp"
+            p1:checked="true" />
+        <RadioButton
+            p1:text="Intlligence"
+            p1:id="@+id/radioButton2"
+            p1:layout_width="110.0dp"
+            p1:layout_height="26.7dp"
+            p1:layout_marginRight="0.0dp" />
+        <RadioButton
+            p1:layout_width="110.0dp"
+            p1:layout_height="26.0dp"
+            p1:checked="false"
+            p1:text="Dexterity"
+            p1:id="@+id/radioButton3" />
+        <RadioButton
+            p1:layout_width="110.0dp"
+            p1:layout_height="26.0dp"
+            p1:text="Wisdom"
+            p1:id="@+id/radioButton4" />
+        <RadioButton
+            p1:layout_width="110.0dp"
+            p1:layout_height="26.0dp"
+            p1:text="Constitution"
+            p1:id="@+id/radioButton5" />
+        <RadioButton
+            p1:text="Charisma"
+            p1:layout_width="110.0dp"
+            p1:layout_height="26.0dp"
+            p1:id="@+id/radioButton6" />
+    </RadioGroup>
+</RelativeLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/relativeLayout1"
+    p1:background="@android:color/holo_red_dark">
+    <TextView
+        p1:text="OPTIONS"
+        p1:textAppearance="?android:attr/textAppearanceMedium"
+        p1:layout_width="wrap_content"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/textView1"
+        p1:layout_marginLeft="77.3dp"
+        p1:layout_marginTop="16.7dp" />
+    <Button
+        p1:text="Switch Characters"
+        p1:layout_width="120.0dp"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/buttonswitch"
+        p1:layout_marginLeft="60.0dp"
+        p1:layout_marginTop="40.0dp" />
+    <Button
+        p1:text="Roll type"
+        p1:layout_width="120.0dp"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/buttonroll"
+        p1:layout_marginLeft="60.0dp"
+        p1:layout_marginTop="150dp" />
+    <Button
+        p1:layout_width="120.0dp"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/buttonmain"
+        p1:layout_marginLeft="60.0dp"
+        p1:layout_marginTop="95dp"
+        p1:text="Main Menu" />
+    <Button
+        p1:text="options"
+        p1:layout_width="200.0dp"
+        p1:layout_height="40.0dp"
+        p1:id="@+id/button1"
+        p1:layout_marginLeft="14.7dp"
+        p1:background="@android:color/background_light"
+        p1:textColor="@android:color/background_dark" />
+</RelativeLayout>

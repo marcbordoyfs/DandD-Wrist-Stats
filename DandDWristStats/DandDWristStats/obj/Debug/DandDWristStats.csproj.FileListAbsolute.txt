@@ -1,0 +1,109 @@
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\bin\Debug\DandDWristStats.dll
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\bin\Debug\DandDWristStats.pdb
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\bin\Debug\DandDWristStats.DandDWristStats.apk
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\bin\Debug\DandDWristStats.DandDWristStats-Signed.apk
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\bin\Debug\Xamarin.Android.Support.v13.dll
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\bin\Debug\Xamarin.Android.Wearable.dll
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\DandDWristStats.dll
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\DandDWristStats.pdb
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\android\bin\DandDWristStats.DandDWristStats.apk
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\res\layout\damagedice.xml
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\res\layout\damagerolls.xml
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\res\layout\deletechar.xml
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\res\layout\dicelayout.xml
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\res\layout\dicerolling.xml
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\res\layout\editcharacters.xml
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\res\layout\letters.xml
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\res\layout\lettersedit.xml
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\res\layout\newchar.xml
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\res\layout\oldchar.xml
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\res\layout\options.xml
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\res\layout\rollingforskills.xml
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\res\layout\rolltype.xml
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\res\layout\skillrollpulses.xml
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\res\layout\skillrolls.xml
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\res\layout\statpick.xml
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\res\drawable\icon.png
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\res\layout\main.xml
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\res\values\strings.xml
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\R.cs.flag
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\uploadflags.txt
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\DandDWristStats.csprojResolveAssemblyReference.cache
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\bin\Debug\DandDWristStats.dll.mdb
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\bin\Debug\Java.Interop.dll.mdb
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\bin\Debug\Mono.Android.dll.mdb
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\bin\Debug\mscorlib.dll.mdb
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\bin\Debug\System.Core.dll.mdb
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\bin\Debug\System.dll.mdb
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\bin\Debug\System.Xml.dll.mdb
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\android\assets\DandDWristStats.dll.mdb
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\android\assets\System.dll.mdb
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\MarcBordoy\Desktop\PP4\DandDWristStats\DandDWristStats\obj\Debug\DandDWristStats.dll.mdb
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\bin\Debug\DandDWristStats.dll
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\bin\Debug\DandDWristStats.pdb
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\bin\Debug\DandDWristStats.DandDWristStats.apk
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\bin\Debug\DandDWristStats.DandDWristStats-Signed.apk
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\bin\Debug\Xamarin.Android.Support.v13.dll
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\bin\Debug\Xamarin.Android.Wearable.dll
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\DandDWristStats.csprojResolveAssemblyReference.cache
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\DandDWristStats.dll
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\DandDWristStats.pdb
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\android\bin\DandDWristStats.DandDWristStats.apk
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\res\layout\damagedice.xml
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\res\layout\damagerolls.xml
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\res\layout\deletechar.xml
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\res\layout\dicelayout.xml
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\res\layout\dicerolling.xml
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\res\layout\editcharacters.xml
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\res\layout\letters.xml
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\res\layout\lettersedit.xml
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\res\layout\newchar.xml
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\res\layout\oldchar.xml
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\res\layout\options.xml
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\res\layout\rollingforskills.xml
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\res\layout\rolltype.xml
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\res\layout\skillrollpulses.xml
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\res\layout\skillrolls.xml
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\res\layout\statpick.xml
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\res\drawable\icon.png
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\res\layout\main.xml
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\res\values\strings.xml
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\R.cs.flag
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\uploadflags.txt
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\bin\Debug\DandDWristStats.dll.mdb
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\bin\Debug\Java.Interop.dll.mdb
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\bin\Debug\Mono.Android.dll.mdb
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\bin\Debug\mscorlib.dll.mdb
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\bin\Debug\System.ComponentModel.Composition.dll.mdb
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\bin\Debug\System.Core.dll.mdb
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\bin\Debug\System.dll.mdb
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\bin\Debug\System.Net.Http.dll.mdb
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\bin\Debug\System.Runtime.Serialization.dll.mdb
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\bin\Debug\System.ServiceModel.Internals.dll.mdb
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\bin\Debug\System.Xml.dll.mdb
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\android\assets\DandDWristStats.dll.mdb
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\android\assets\Java.Interop.dll.mdb
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\android\assets\Mono.Android.dll.mdb
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\android\assets\mscorlib.dll.mdb
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\android\assets\System.Core.dll.mdb
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\android\assets\System.dll.mdb
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\android\assets\System.Net.Http.dll.mdb
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\android\assets\System.Xml.dll.mdb
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\obj\Debug\DandDWristStats.dll.mdb
+E:\Class projects\classwork\older stuff\DandDWristStats\DandDWristStats\bin\Debug\DandDWristStats.dll.mdb
